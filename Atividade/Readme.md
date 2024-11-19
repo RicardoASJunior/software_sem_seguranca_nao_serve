@@ -78,7 +78,7 @@ Foi implementada uma proteção contra ataques de injeção de código (como SQL
 **1. Clonar o Repositório Clone o repositório do projeto:**
 
   ```bash
-  git clone https://github.com/seu-usuario/projeto-api.git
+  git clone https://github.com/RicardoASJunior/software_sem_seguranca_nao_serve.git
   cd projeto-api
   ```
 
